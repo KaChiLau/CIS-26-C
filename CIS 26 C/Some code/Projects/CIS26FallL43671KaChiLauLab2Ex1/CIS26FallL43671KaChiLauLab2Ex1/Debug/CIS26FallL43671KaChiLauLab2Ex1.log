@@ -1,0 +1,30 @@
+﻿Build started 5/11/2011 23:48:55.
+     1>Project "C:\Users\kaichi\documents\visual studio 2010\Projects\CIS26FallL43671KaChiLauLab2Ex1\CIS26FallL43671KaChiLauLab2Ex1\CIS26FallL43671KaChiLauLab2Ex1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CIS26FallL43671KaChiLauLab2Ex1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "..\..\..\..\..\Desktop\Education\CIS26\Project (Hw)\cis26Fall2011L43671KaChiLauLab4Ex1\CIS26Fall2011L43671KaChiLauLab4Ex1.c"
+         CIS26Fall2011L43671KaChiLauLab4Ex1.c
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(14): warning C4013: 'analyzeFloatingPointKachil' undefined; assuming extern returning int
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(50): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(52): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(54): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(58): error C2065: 'klA' : undeclared identifier
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(62): error C2065: 'klB' : undeclared identifier
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(64): error C2065: 'klB' : undeclared identifier
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(66): error C2065: 'klC' : undeclared identifier
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(66): error C2065: 'klA' : undeclared identifier
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(68): error C2065: 'klB' : undeclared identifier
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(70): error C2065: 'klC' : undeclared identifier
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(70): error C2065: 'klA' : undeclared identifier
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(72): error C2065: 'klB' : undeclared identifier
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(74): error C2065: 'klC' : undeclared identifier
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(74): error C2065: 'klA' : undeclared identifier
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(77): error C2065: 'klB' : undeclared identifier
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(77): error C2065: 'klC' : undeclared identifier
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab4ex1\cis26fall2011l43671kachilaulab4ex1.c(80): warning C4033: 'analyzeFloatingPointKachil' must return a value
+     1>Done Building Project "C:\Users\kaichi\documents\visual studio 2010\Projects\CIS26FallL43671KaChiLauLab2Ex1\CIS26FallL43671KaChiLauLab2Ex1\CIS26FallL43671KaChiLauLab2Ex1.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.40

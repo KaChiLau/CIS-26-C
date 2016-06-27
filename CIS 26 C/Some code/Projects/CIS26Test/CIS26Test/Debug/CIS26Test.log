@@ -1,0 +1,26 @@
+﻿Build started 11/10/2011 23:22:16.
+     1>Project "C:\Users\kaichi\documents\visual studio 2010\Projects\CIS26Test\CIS26Test\CIS26Test.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\CIS26Test.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "..\..\..\..\..\Desktop\Education\CIS26\Project (Hw)\cis26Fall2011L43671KaChiLauLab3Ex3\CIS26Fall2011L43671KaChiLauLab3Ex3.c"
+         CIS26Fall2011L43671KaChiLauLab3Ex3.c
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab3ex3\cis26fall2011l43671kachilaulab3ex3.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\kaichi\desktop\education\cis26\project (hw)\cis26fall2011l43671kachilaulab3ex3\cis26fall2011l43671kachilaulab3ex3.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kaichi\documents\visual studio 2010\Projects\CIS26Test\Debug\CIS26Test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CIS26Test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\kaichi\documents\visual studio 2010\Projects\CIS26Test\Debug\CIS26Test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kaichi\documents\visual studio 2010\Projects\CIS26Test\Debug\CIS26Test.lib" /MACHINE:X86 Debug\CIS26Test.exe.embed.manifest.res
+         Debug\CIS26Fall2011L43671KaChiLauLab3Ex3.obj
+         Debug\CIS26Fall2011L43671KaChiLauLab4Ex1.obj
+         Debug\CIS26Fall2011L43671KaChiLauLab4Ex1.obj
+     1>CIS26Fall2011L43671KaChiLauLab4Ex1.obj : error LNK2005: _main already defined in CIS26Fall2011L43671KaChiLauLab3Ex3.obj
+     1>Debug\CIS26Fall2011L43671KaChiLauLab4Ex1.obj : warning LNK4042: object specified more than once; extras ignored
+     1>C:\Users\kaichi\documents\visual studio 2010\Projects\CIS26Test\Debug\CIS26Test.exe : fatal error LNK1169: one or more multiply defined symbols found
+     1>Done Building Project "C:\Users\kaichi\documents\visual studio 2010\Projects\CIS26Test\CIS26Test\CIS26Test.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.21

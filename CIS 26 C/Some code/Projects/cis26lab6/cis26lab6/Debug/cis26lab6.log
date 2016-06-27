@@ -1,0 +1,17 @@
+﻿Build started 27/11/2011 3:15:06.
+     1>Project "c:\Users\kaichi\documents\visual studio 2010\Projects\cis26lab6\cis26lab6\cis26lab6.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\cis26lab6.lastbuildstate".
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : Access to the path 'c:\users\kaichi\documents\visual studio 2010\Projects\cis26lab6\Debug\cis26lab6.exe' is denied.
+       InitializeBuildStatus:
+         Touching "Debug\cis26lab6.unsuccessfulbuild".
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\cis26lab6.exe.embed.manifest.res" Debug\cis26lab6_manifest.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\kaichi\documents\visual studio 2010\Projects\cis26lab6\Debug\cis26lab6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\cis26lab6.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\kaichi\documents\visual studio 2010\Projects\cis26lab6\Debug\cis26lab6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\kaichi\documents\visual studio 2010\Projects\cis26lab6\Debug\cis26lab6.lib" /MACHINE:X86 Debug\cis26lab6.exe.embed.manifest.res
+     1>LINK : fatal error LNK1104: cannot open file 'c:\users\kaichi\documents\visual studio 2010\Projects\cis26lab6\Debug\cis26lab6.exe'
+     1>Done Building Project "c:\Users\kaichi\documents\visual studio 2010\Projects\cis26lab6\cis26lab6\cis26lab6.vcxproj" (rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.51
